@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Change Background colors and button color
+* [x] Changed background and button color.
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While some of the steps took a some time, the overall app develpoment experience went very smoothly.
 
 ## License
 
